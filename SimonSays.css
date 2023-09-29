@@ -1,0 +1,52 @@
+body{
+    text-align:center;
+}
+.btn{
+    height:150px;
+    width:150px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin:1rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.line-one #green{
+    color: green;
+}
+.line-two #blue{
+    color: blue;
+}
+.line-one #red{
+    color: red;
+}
+.line-two #yellow{
+    color:yellow;
+}
+.flash {
+    background-color: white;
+
+}
+*{
+    background-color: rgb(100, 213, 251);
+}
+h1{
+    font-family: 'Slabo 27px', serif;
+}
+h2{
+    font-family: 'Vesper Libre', serif;
+}
